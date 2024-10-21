@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<transportList>
+    <transport type="car" id="1">
+        <brand>Toyota</brand>
+        <model>Camry</model>
+        <year>2022</year>
+        <fuel>Gas</fuel>
+    </transport>
+    
+    <transport type="bike" id="2">
+        <brand>Canondale</brand>
+        <model>Track 7</model>
+        <year>2020</year>
+        <size>24</size>
+    </transport>
+    
+    <transport type="tram" id="3">
+        <company>City Transit</company>
+        <route>45B</route>
+        <capacity>50</capacity>
+        <number>4</number>
+    </transport>
+</transportList>

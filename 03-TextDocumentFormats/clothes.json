@@ -53,5 +53,41 @@
             "Outerwear",
             "Accessories"
         ]
+    },
+    {
+        "name": "Lacoste",
+        "founded": 1933,
+        "headquarters": "Troyes, France",
+        "employees": 10300,
+        "products": [
+            "Clothing",
+            "Footwear",
+            "Fragrances",
+            "Accessories"
+        ]
+    },
+    {
+        "name": "Nike",
+        "founded": 1964,
+        "headquarters": "Beaverton, Oregon, USA",
+        "employees": 79000,
+        "products": [
+            "Sportswear",
+            "Footwear",
+            "Accessories",
+            "Equipment"
+        ]
+    },
+    {
+        "name": "Adidas",
+        "founded": 1949,
+        "headquarters": "Herzogenaurach, Germany",
+        "employees": 62000,
+        "products": [
+            "Sportswear",
+            "Footwear",
+            "Accessories",
+            "Equipment"
+        ]
     }
 ]
