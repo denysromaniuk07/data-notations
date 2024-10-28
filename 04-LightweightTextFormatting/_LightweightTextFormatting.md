@@ -33,11 +33,11 @@ stalj@uek.krakow.pl
 
     <https://en.wikipedia.org/wiki/Laptop>
 
-    1. Document title.
-    1. Laptop definition (2 paragraphs). Include a link in the text to the Wikipedia describing the laptop.
-    1. Types of laptops (3 paragraphs).
-    1. Laptop hardware (2 paragraph description) and a numbered list of at least five main laptop hardware. For any two laptop components, provide a link to Wikipedia with their description.
-    1. Unordered list of the top three laptop manufacturers.
+        1. Document title.
+        1. Laptop definition (2 paragraphs). Include a link in the text to the Wikipedia describing the laptop.
+        1. Types of laptops (3 paragraphs).
+        1. Laptop hardware (2 paragraph description) and a numbered list of at least five main laptop hardware. For any two laptop components, provide a link to Wikipedia with their description.
+        1. Unordered list of the top three laptop manufacturers.
 
 1. Create a markdown document called countries.md. Place in it, in a table, the data contained in the CSV format below. Add a title (heading) at the beginning of the document. Display table column titles in bold.
 
