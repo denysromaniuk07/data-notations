@@ -11,7 +11,7 @@ Laptops come in various types, each designed for specific uses and user preferen
 . General-purpose laptops, or productivity laptops, are designed for everyday tasks like web browsing, creating documents, and watching videos2
 . Ultrabooks are lightweight and thin laptops with long battery life, ideal for users who need portability2
 . Gaming laptops are equipped with powerful hardware to handle demanding games and applications2
-. Workstation laptops are designed for professional use, such as video editing and 3D rendering2
+. Workstation laptops are designed for professional use, such as video editing and 3D rendering2      
 . Convertible laptops or 2-in-1s can switch between laptop and tablet modes, offering versatility2
 . Chromebooks run on Chrome OS and are great for web-based tasks and cloud computing2
 

@@ -1,4 +1,4 @@
-<!--
+        <!--
 (c) Janusz Stal
 Krakow University of Economics
 Department of Informatics
@@ -49,7 +49,6 @@ stalj@uek.krakow.pl
     Brazil,Brasília,Brazilian Real,BRL,212559417
     India,New Delhi,Indian Rupee,INR,1380004385
     ```
-
 ## 3. Preview MD on GitHub
 
 1. GitHub is a tool that also allows you to preview markdown documents.
