@@ -1,3 +1,19 @@
 div{
     margin-bottom: 25px;
 }
+
+body{
+    font-family: Arial;
+}
+
+.textcolor{
+    color: red;
+}
+
+input{
+    border: 2px, solid, black;
+}
+
+form{
+    width: 100%;
+}
